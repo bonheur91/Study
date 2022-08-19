@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+  <img src=".\Users\82107\Documents\Study/사진 1.jpg">
   <br>
 </p>
 
